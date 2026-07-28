@@ -1,5 +1,2 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: AdsBot-Google
+User-agent: *
 Allow: /
